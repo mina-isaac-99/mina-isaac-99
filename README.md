@@ -13,8 +13,8 @@
   <img align="left" alt="Code Pen " width="22px" src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" />
 </a>
  
- 
-hi, i'm [Mina Isaac](https://mina-isaac.com/), a passionate PHP stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.
+ <br>
+hi, i'm Mina Isaac, a passionate PHP stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.
 
   <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" width="500" height="320" />
   

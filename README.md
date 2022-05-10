@@ -6,13 +6,16 @@
 <a href="https://twitter.com/mina__isaac">
   <img align="left" alt="Mina__isaac| Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" />
 </a>
+<a href="mailto:mina.isaac.aziz@outlook.com">
+  <img align="left" alt="Outlook" width="22px" src="https://cdn.cdnlogo.com/logos/o/82/outlook.svg" />
+</a>
 <a href="https://www.linkedin.com/in/minaisaac/">
   <img align="left" alt="Mina Isaac LinkedIN" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
 <a href="https://codepen.io/minaisaac">
   <img align="left" alt="Code Pen " width="22px" src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" />
 </a>
- 
+
  <br/> <br/>
 hi, i'm Mina Isaac, a passionate PHP stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.
 

@@ -17,7 +17,7 @@
 </a>
 
  <br/> <br/>
-<h2> hi, i'm Mina Isaac, a passionate PHP stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.</h2>
+<h3> hi, i'm Mina Isaac, a passionate PHP stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.</h3>
 
   <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" width="500" height="320" />
   

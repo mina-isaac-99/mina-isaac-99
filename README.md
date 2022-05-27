@@ -27,7 +27,7 @@
 **Languages and Technologies:**  
 
 <img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg">
-<code><img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg"></code>
+<img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg">
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></code>
 <code><img height="23" src="https://cdn.cdnlogo.com/logos/v/92/vue-js.svg"></code>
 <code><img height="23" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg"></code>

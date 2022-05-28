@@ -29,7 +29,7 @@
 
 🔧 **Languages and Technologies:**  
 
-<img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg">  <img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg">  <img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">  <img height="22" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg"> <img height="23" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg"> <img height="23" src="https://cdn.cdnlogo.com/logos/v/69/vue.svg">  <img height="23" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg">  <img height="20" src="https://cdn.cdnlogo.com/logos/p/71/php.svg">  <img height="20" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg">  <img height="26" src="https://cdn.cdnlogo.com/logos/m/47/mysql.svg">
+<img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg">&nbsp; <img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg">  <img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">  <img height="22" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg"> <img height="23" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg"> <img height="23" src="https://cdn.cdnlogo.com/logos/v/69/vue.svg">  <img height="23" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg">  <img height="20" src="https://cdn.cdnlogo.com/logos/p/71/php.svg">  <img height="20" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg">  <img height="26" src="https://cdn.cdnlogo.com/logos/m/47/mysql.svg">
 
  📊 **My Skills:**
 

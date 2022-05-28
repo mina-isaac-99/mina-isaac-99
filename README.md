@@ -45,7 +45,7 @@ Back  End       ██████████████▒░░░
 Data Bases      ██████████▓░░░░░░░   
 UI/UX           █████████▒░░░░░░░░  
 ```
- ⚙️ Account Analytics
+ ⚙️ **Account Analytics:**
 <div align="center" style="display:flex;flex-direction:row;">
   <img class="img" height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mina-isaac-99&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide=stars,issues"/>
   <img class="img" height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mina-isaac-99&theme=dark&layout=compact" />

@@ -31,7 +31,7 @@
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></code>
 <code><img height="22" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg"></code>
 <code><img height="23" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg"></code>
-<code><img height="23" src="https://cdn.cdnlogo.com/logos/v/69/vue-js.svg"></code>
+<code><img height="23" src="https://cdn.cdnlogo.com/logos/v/69/vue.svg"></code>
 <code><img height="23" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg"></code>
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/p/71/php.svg"></code>
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg"></code>

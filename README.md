@@ -1,4 +1,4 @@
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br/>
 <a href="https://www.facebook.com/Mina.Isaac.Aziz">
   <img align="left" alt="Mina Isaac Facebook" width="22px" height="20px" src="https://cdn.cdnlogo.com/logos/f/84/facebook.svg" />
@@ -43,3 +43,8 @@ Back  End       ██████████████▒░░░
 Data Bases      ██████████▓░░░░░░░   
 UI/UX           █████████▒░░░░░░░░  
 ```
+### ⚙️ &nbsp;Account Analytics
+<div align="center" style="display:flex;flex-direction:row;">
+  <img class="img" height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mina-isaac-99&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide=stars,issues"/>
+  <img class="img" height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mina-isaac-99&theme=algolia&layout=compact" />
+</div>

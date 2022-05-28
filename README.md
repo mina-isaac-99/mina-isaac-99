@@ -29,8 +29,7 @@
 
 🔧 **Languages and Technologies:**  
 
-<code><img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"></code>
-<code><img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg"></code>
+<img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"><img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg">
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></code>
 <code><img height="22" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg"></code>
 <code><img height="23" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg"></code>

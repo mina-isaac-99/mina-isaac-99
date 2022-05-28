@@ -1,9 +1,5 @@
-<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![account visitors](https://visitor-badge.laobi.icu/badge?page_id=mina-isaac-99)
-</h1>
+<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br/>
-
-
 
 <a href="https://www.facebook.com/Mina.Isaac.Aziz">
   <img align="left" alt="Mina Isaac Facebook" width="22px" height="20px" src="https://cdn.cdnlogo.com/logos/f/84/facebook.svg" />
@@ -21,7 +17,8 @@
   <img align="left" alt="Code Pen " width="22px" src="https://cdn.cdnlogo.com/logos/c/77/codepen-icon.svg" />
 </a>
 
- <br/> <br/>
+![account visitors](https://visitor-badge.laobi.icu/badge?page_id=mina-isaac-99)
+<br/> <br/>
 <h3> hi, i'm Mina Isaac, a passionate PHP stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.</h3>
 
   <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" width="500" height="320" />

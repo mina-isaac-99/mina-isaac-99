@@ -1,7 +1,9 @@
-<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![account visitors](https://visitor-badge.laobi.icu/badge?page_id=mina-isaac-99)
+</h1>
 <br/>
 
-![account visitors](https://visitor-badge.laobi.icu/badge?page_id=mina-isaac-99)
+
 
 <a href="https://www.facebook.com/Mina.Isaac.Aziz">
   <img align="left" alt="Mina Isaac Facebook" width="22px" height="20px" src="https://cdn.cdnlogo.com/logos/f/84/facebook.svg" />

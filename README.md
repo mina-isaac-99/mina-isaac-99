@@ -24,7 +24,7 @@
 - 💼 Any work? contact me, [email](mailto:info@mina-isaac.com) :)
 - 💬 Feel Free to ask me about anything, i am happy to help;
 
-**Languages and Technologies:**  
+🔧 **Languages and Technologies:**  
 
 <code><img height="24" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"></code>
 <code><img height="20" src="https://cdn.cdnlogo.com/logos/c/18/css.svg"></code>

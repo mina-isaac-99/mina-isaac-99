@@ -23,7 +23,7 @@
 
   <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" width="500" height="320" />
   
-- 💼 Any work? contact me, [email](mailto:info@mina-isaac.com) :)
+- 💼 Any work? contact me, [email](mailto:mina.isaac.aziz@outlook.com) :)
 - 💬 Feel Free to ask me about anything, i am happy to help;
 
 🔧 **Languages and Technologies:**  

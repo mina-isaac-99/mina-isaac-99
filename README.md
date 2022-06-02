@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px"></h1>
 <br/>
 
 <a href="https://www.facebook.com/Mina.Isaac.Aziz">

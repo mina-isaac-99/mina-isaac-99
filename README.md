@@ -4,9 +4,9 @@
 <a href="https://www.facebook.com/Mina.Isaac.Aziz">
   <img align="left" alt="Mina Isaac Facebook" width="22px" height="20px" src="https://cdn.cdnlogo.com/logos/f/84/facebook.svg" />
 </a>
-<a href="https://twitter.com/mina__isaac">
+<!--<a href="https://twitter.com/mina__isaac">
   <img align="left" alt="Mina__isaac| Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" />
-</a>
+</a>-->
 <a href="mailto:mina.isaac.aziz@outlook.com">
   <img align="left" alt="Outlook" width="22px" src="https://cdn.cdnlogo.com/logos/o/82/outlook.svg" />
 </a>

@@ -19,7 +19,7 @@
 
 ![account visitors](https://visitor-badge.laobi.icu/badge?page_id=mina-isaac-99)
 
- hi, i'm Mina Isaac, a passionate PHP stack web developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.
+ hi, i'm Mina Isaac, a passionate Full stack Developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.
 
   <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" width="500" height="320" />
   
@@ -31,7 +31,7 @@
 <img height="29" src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg"> &nbsp; <img height="23" src="https://cdn.cdnlogo.com/logos/c/18/css.svg"> &nbsp; <img height="24" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"> &nbsp; <img height="22" src="https://cdn.cdnlogo.com/logos/t/58/tailwindcss.svg"> &nbsp;
 <img height="22" src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg"> &nbsp; <img height="23" src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg"> &nbsp; <img height="23" src="https://cdn.cdnlogo.com/logos/v/69/vue.svg"> &nbsp; <img height="25" src="https://cdn.cdnlogo.com/logos/a/24/angular-icon.svg"> &nbsp; <img height="22" src="https://cdn.cdnlogo.com/logos/p/71/php.svg"> &nbsp; <img height="24" src="https://cdn.cdnlogo.com/logos/w/94/wordpress-blue.svg"> &nbsp; 
 <img height="22" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg"> &nbsp; <img height="30" src="https://cdn.cdnlogo.com/logos/m/47/mysql.svg"> &nbsp; 
-<img height="25" src="https://cdn.cdnlogo.com/logos/l/6/linux-tux.svg">
+<img height="25" src="https://cdn.cdnlogo.com/logos/l/9/linux-tux.svg">
 
  📊 **My Skills:**
 

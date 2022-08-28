@@ -21,7 +21,7 @@
 
  hi, i'm Mina Isaac, a passionate Full stack Developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" class="img-fluid" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" class="img-fluid" width="300" height="220" />
   
 - 💼 Any work? contact me, [email](mailto:mina.isaac.aziz@outlook.com) :)
 - 💬 Feel Free to ask me about anything, i am happy to help;

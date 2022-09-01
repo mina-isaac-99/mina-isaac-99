@@ -19,6 +19,8 @@
 
 ![account visitors](https://visitor-badge.laobi.icu/badge?page_id=mina-isaac-99)
 
+<img  alt="Mina Isaac" src="https://i.imgur.com/3kN5U8S.png">
+
  hi, i'm Mina Isaac, a passionate Full stack Developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take care of the user experience, architecture, and code quality of the things I build.
 
 <!--   <img align="right" alt="GIF" src="https://mina-isaac.com/images/code.gif" class="img-fluid" width="300" height="220" /> -->

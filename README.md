@@ -35,6 +35,7 @@
 <img height="22" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg"> &nbsp; <img height="30" src="https://cdn.cdnlogo.com/logos/m/47/mysql.svg"> &nbsp; 
 <img height="25" src="https://cdn.cdnlogo.com/logos/u/89/ubuntu.svg"> &nbsp; <img height="25" src="https://cdn.cdnlogo.com/logos/g/15/git-icon.svg">
 
+<!--
  📊 **My Skills:**
 
 ```text
@@ -43,6 +44,8 @@ Back  End       ██████████████▒░░░
 Data Bases      ██████████▓░░░░░░░   
 UI/UX           █████████▒░░░░░░░░  
 ```
+-->
+
  <!--
  ⚙️ **Account Analytics:**
 <div align="center" style="display:flex;flex-direction:row;">
